@@ -2,14 +2,9 @@ import React, { useState } from 'react';
 import './MainHeader.css';
 
 const MainHeader = ({client}) => {
-    // console.log(client)
     const [domain,extendDomain]=useState(false)
   return (
     <div className='main-header'>
-        <div className='profile'>
-            <p>Hi Sathish,</p>
-            <i className="fa-sharp fa-solid fa-face-smile"></i>
-        </div>
         <div className='main-section'>
       <div className="section1">
         <div className='main-heading'>

@@ -90,30 +90,32 @@ const Content = ({client}) => {
                                         <p>{entity.vat+"+"+entity.wht}</p>
                                     </td>
                                 </tr>
-                                {/* <tr >
-                                    <h2>corporate_price_per_MSLA</h2>
-                                   <table>
-                                    <thead className='table-collection'>
-                                    <th>service</th>
-                                    <th>Unit</th>
-                                    <th>list price</th>
-                                    <th>Offered price</th>
-                                    <th>Discount</th>
-                    </thead>
-                    </table>
-                    <tbody>
-                    <tr className='table-text'>
-                                <td>Arabic Language Translation</td>
-                                <td>Words</td>
-                                <td>0.1</td>
-                                <td>0.09</td>
-                                <td>10% ( 19% )</td>
-                                </tr>   
-                    </tbody>
-                    </tr>    */}
-
-
-                            </tbody></table></td>
+                                <h2>Corporte price as per MSLA</h2>
+                                </tbody></table>
+                            
+                            <table className='table-collection'>
+                            <thead className='table-collection'>
+                                <th>Service</th>
+                                <th>Units</th>
+                                <th>List Price</th>
+                                <th>Offered Price</th>
+                                <th>Discount</th>
+                            </thead>
+                            <tbody>
+                                {
+                            entity.corporate_price_per_MSLA.map((corporate)=>{
+                               return <tr className='table-collection'>
+                                    <td>{corporate.service}:{corporate.EZ_assured ? "EZ Assured":null}</td>
+                                    <td>{corporate.units}</td>
+                                    <td>{corporate.list_price}</td>
+                                    <td>{corporate.Offered_price}</td>
+                                    <td>{corporate.discount}</td>
+                                </tr>
+                                })
+                                }
+                            </tbody>
+                            </table>
+                            </td>
                             }
                             </>
                         ))

@@ -3,12 +3,13 @@ import './Clients.css'
 import {data} from '../../data';
 console.log(data);
 
-const Clients = ({setClient}) => {
+const Clients = ({setClient,selectClient}) => {
     const [descending,setDescending]=useState(true);
     const [active,setActive]=useState("");
     const handleClick=(client)=>{
       setActive(client.id);
       setClient(client);
+      selectClient(true);
     }
   return (
     <div className='clients'>

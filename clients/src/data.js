@@ -66,6 +66,24 @@ export const data=[
                         Offered_price:"0.09 AED",
                         discount:"10% (19%)"
 
+                    },
+                    {
+                        service:"Arabic Language Translation",
+                        EZ_assured:true,
+                        units:"Words",
+                        list_price:"0.1 AED",
+                        Offered_price:"0.09 AED",
+                        discount:"10% (19%)"
+
+                    },
+                    {
+                        service:"Arabic Language Translation",
+                        EZ_assured:true,
+                        units:"Words",
+                        list_price:"0.1 AED",
+                        Offered_price:"0.09 AED",
+                        discount:"10% (19%)"
+
                     }
                 ]
             },
@@ -88,6 +106,24 @@ export const data=[
                 vat:"5%",
                 wht:"5%",
                 corporate_price_per_MSLA:[
+                    {
+                        service:"Arabic Language Translation",
+                        EZ_assured:true,
+                        units:"Words",
+                        list_price:"0.1 AED",
+                        Offered_price:"0.09 AED",
+                        discount:"10% (19%)"
+
+                    },
+                    {
+                        service:"Arabic Language Translation",
+                        EZ_assured:true,
+                        units:"Words",
+                        list_price:"0.1 AED",
+                        Offered_price:"0.09 AED",
+                        discount:"10% (19%)"
+
+                    },
                     {
                         service:"Arabic Language Translation",
                         EZ_assured:true,
@@ -126,6 +162,24 @@ export const data=[
                         Offered_price:"0.09 AED",
                         discount:"10% (19%)"
 
+                    },
+                    {
+                        service:"Arabic Language Translation",
+                        EZ_assured:true,
+                        units:"Words",
+                        list_price:"0.1 AED",
+                        Offered_price:"0.09 AED",
+                        discount:"10% (19%)"
+
+                    },
+                    {
+                        service:"Arabic Language Translation",
+                        EZ_assured:true,
+                        units:"Words",
+                        list_price:"0.1 AED",
+                        Offered_price:"0.09 AED",
+                        discount:"10% (19%)"
+
                     }
                 ]
             },
@@ -148,6 +202,24 @@ export const data=[
                 vat:"5%",
                 wht:"5%",
                 corporate_price_per_MSLA:[
+                    {
+                        service:"Arabic Language Translation",
+                        EZ_assured:true,
+                        units:"Words",
+                        list_price:"0.1 AED",
+                        Offered_price:"0.09 AED",
+                        discount:"10% (19%)"
+
+                    },
+                    {
+                        service:"Arabic Language Translation",
+                        EZ_assured:true,
+                        units:"Words",
+                        list_price:"0.1 AED",
+                        Offered_price:"0.09 AED",
+                        discount:"10% (19%)"
+
+                    },
                     {
                         service:"Arabic Language Translation",
                         EZ_assured:true,
@@ -186,6 +258,24 @@ export const data=[
                         Offered_price:"0.09 AED",
                         discount:"10% (19%)"
 
+                    },
+                    {
+                        service:"Arabic Language Translation",
+                        EZ_assured:true,
+                        units:"Words",
+                        list_price:"0.1 AED",
+                        Offered_price:"0.09 AED",
+                        discount:"10% (19%)"
+
+                    },
+                    {
+                        service:"Arabic Language Translation",
+                        EZ_assured:true,
+                        units:"Words",
+                        list_price:"0.1 AED",
+                        Offered_price:"0.09 AED",
+                        discount:"10% (19%)"
+
                     }
                 ]
             },
@@ -208,6 +298,24 @@ export const data=[
                 vat:"5%",
                 wht:"5%",
                 corporate_price_per_MSLA:[
+                    {
+                        service:"Arabic Language Translation",
+                        EZ_assured:true,
+                        units:"Words",
+                        list_price:"0.1 AED",
+                        Offered_price:"0.09 AED",
+                        discount:"10% (19%)"
+
+                    },
+                    {
+                        service:"Arabic Language Translation",
+                        EZ_assured:true,
+                        units:"Words",
+                        list_price:"0.1 AED",
+                        Offered_price:"0.09 AED",
+                        discount:"10% (19%)"
+
+                    },
                     {
                         service:"Arabic Language Translation",
                         EZ_assured:true,
@@ -246,6 +354,24 @@ export const data=[
                         Offered_price:"0.09 AED",
                         discount:"10% (19%)"
 
+                    },
+                    {
+                        service:"Arabic Language Translation",
+                        EZ_assured:true,
+                        units:"Words",
+                        list_price:"0.1 AED",
+                        Offered_price:"0.09 AED",
+                        discount:"10% (19%)"
+
+                    },
+                    {
+                        service:"Arabic Language Translation",
+                        EZ_assured:true,
+                        units:"Words",
+                        list_price:"0.1 AED",
+                        Offered_price:"0.09 AED",
+                        discount:"10% (19%)"
+
                     }
                 ]
             },
@@ -268,6 +394,24 @@ export const data=[
                 vat:"5%",
                 wht:"5%",
                 corporate_price_per_MSLA:[
+                    {
+                        service:"Arabic Language Translation",
+                        EZ_assured:true,
+                        units:"Words",
+                        list_price:"0.1 AED",
+                        Offered_price:"0.09 AED",
+                        discount:"10% (19%)"
+
+                    },
+                    {
+                        service:"Arabic Language Translation",
+                        EZ_assured:true,
+                        units:"Words",
+                        list_price:"0.1 AED",
+                        Offered_price:"0.09 AED",
+                        discount:"10% (19%)"
+
+                    },
                     {
                         service:"Arabic Language Translation",
                         EZ_assured:true,
@@ -348,6 +492,24 @@ export const data=[
                         Offered_price:"0.09 AED",
                         discount:"10% (19%)"
 
+                    },
+                    {
+                        service:"Arabic Language Translation",
+                        EZ_assured:true,
+                        units:"Words",
+                        list_price:"0.1 AED",
+                        Offered_price:"0.09 AED",
+                        discount:"10% (19%)"
+
+                    },
+                    {
+                        service:"Arabic Language Translation",
+                        EZ_assured:true,
+                        units:"Words",
+                        list_price:"0.1 AED",
+                        Offered_price:"0.09 AED",
+                        discount:"10% (19%)"
+
                     }
                 ]
             },
@@ -370,6 +532,24 @@ export const data=[
                 vat:"5%",
                 wht:"5%",
                 corporate_price_per_MSLA:[
+                    {
+                        service:"Arabic Language Translation",
+                        EZ_assured:true,
+                        units:"Words",
+                        list_price:"0.1 AED",
+                        Offered_price:"0.09 AED",
+                        discount:"10% (19%)"
+
+                    },
+                    {
+                        service:"Arabic Language Translation",
+                        EZ_assured:true,
+                        units:"Words",
+                        list_price:"0.1 AED",
+                        Offered_price:"0.09 AED",
+                        discount:"10% (19%)"
+
+                    },
                     {
                         service:"Arabic Language Translation",
                         EZ_assured:true,
@@ -408,6 +588,24 @@ export const data=[
                         Offered_price:"0.09 AED",
                         discount:"10% (19%)"
 
+                    },
+                    {
+                        service:"Arabic Language Translation",
+                        EZ_assured:true,
+                        units:"Words",
+                        list_price:"0.1 AED",
+                        Offered_price:"0.09 AED",
+                        discount:"10% (19%)"
+
+                    },
+                    {
+                        service:"Arabic Language Translation",
+                        EZ_assured:true,
+                        units:"Words",
+                        list_price:"0.1 AED",
+                        Offered_price:"0.09 AED",
+                        discount:"10% (19%)"
+
                     }
                 ]
             },
@@ -430,6 +628,24 @@ export const data=[
                 vat:"5%",
                 wht:"5%",
                 corporate_price_per_MSLA:[
+                    {
+                        service:"Arabic Language Translation",
+                        EZ_assured:true,
+                        units:"Words",
+                        list_price:"0.1 AED",
+                        Offered_price:"0.09 AED",
+                        discount:"10% (19%)"
+
+                    },
+                    {
+                        service:"Arabic Language Translation",
+                        EZ_assured:true,
+                        units:"Words",
+                        list_price:"0.1 AED",
+                        Offered_price:"0.09 AED",
+                        discount:"10% (19%)"
+
+                    },
                     {
                         service:"Arabic Language Translation",
                         EZ_assured:true,
@@ -468,6 +684,24 @@ export const data=[
                         Offered_price:"0.09 AED",
                         discount:"10% (19%)"
 
+                    },
+                    {
+                        service:"Arabic Language Translation",
+                        EZ_assured:true,
+                        units:"Words",
+                        list_price:"0.1 AED",
+                        Offered_price:"0.09 AED",
+                        discount:"10% (19%)"
+
+                    },
+                    {
+                        service:"Arabic Language Translation",
+                        EZ_assured:true,
+                        units:"Words",
+                        list_price:"0.1 AED",
+                        Offered_price:"0.09 AED",
+                        discount:"10% (19%)"
+
                     }
                 ]
             },
@@ -490,6 +724,24 @@ export const data=[
                 vat:"5%",
                 wht:"5%",
                 corporate_price_per_MSLA:[
+                    {
+                        service:"Arabic Language Translation",
+                        EZ_assured:true,
+                        units:"Words",
+                        list_price:"0.1 AED",
+                        Offered_price:"0.09 AED",
+                        discount:"10% (19%)"
+
+                    },
+                    {
+                        service:"Arabic Language Translation",
+                        EZ_assured:true,
+                        units:"Words",
+                        list_price:"0.1 AED",
+                        Offered_price:"0.09 AED",
+                        discount:"10% (19%)"
+
+                    },
                     {
                         service:"Arabic Language Translation",
                         EZ_assured:true,
@@ -528,6 +780,24 @@ export const data=[
                         Offered_price:"0.09 AED",
                         discount:"10% (19%)"
 
+                    },
+                    {
+                        service:"Arabic Language Translation",
+                        EZ_assured:true,
+                        units:"Words",
+                        list_price:"0.1 AED",
+                        Offered_price:"0.09 AED",
+                        discount:"10% (19%)"
+
+                    },
+                    {
+                        service:"Arabic Language Translation",
+                        EZ_assured:true,
+                        units:"Words",
+                        list_price:"0.1 AED",
+                        Offered_price:"0.09 AED",
+                        discount:"10% (19%)"
+
                     }
                 ]
             },
@@ -550,6 +820,24 @@ export const data=[
                 vat:"5%",
                 wht:"5%",
                 corporate_price_per_MSLA:[
+                    {
+                        service:"Arabic Language Translation",
+                        EZ_assured:true,
+                        units:"Words",
+                        list_price:"0.1 AED",
+                        Offered_price:"0.09 AED",
+                        discount:"10% (19%)"
+
+                    },
+                    {
+                        service:"Arabic Language Translation",
+                        EZ_assured:true,
+                        units:"Words",
+                        list_price:"0.1 AED",
+                        Offered_price:"0.09 AED",
+                        discount:"10% (19%)"
+
+                    },
                     {
                         service:"Arabic Language Translation",
                         EZ_assured:true,
@@ -622,6 +910,24 @@ export const data=[
                 vat:"5%",
                 wht:"5%",
                 corporate_price_per_MSLA:[
+                    {
+                        service:"Arabic Language Translation",
+                        EZ_assured:true,
+                        units:"Words",
+                        list_price:"0.1 AED",
+                        Offered_price:"0.09 AED",
+                        discount:"10% (19%)"
+
+                    },
+                    {
+                        service:"Arabic Language Translation",
+                        EZ_assured:true,
+                        units:"Words",
+                        list_price:"0.1 AED",
+                        Offered_price:"0.09 AED",
+                        discount:"10% (19%)"
+
+                    },
                     {
                         service:"Arabic Language Translation",
                         EZ_assured:true,

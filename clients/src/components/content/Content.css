@@ -49,6 +49,8 @@ nav .active{
     font-size: 1.4rem;
 }
 table{
+    padding-left: 10px;
+    padding-right: 10px;
     margin: 0;
     width: 100%;
     border-spacing:10px 10px;
@@ -79,9 +81,11 @@ table i{
 }
 .table-collection{
     box-shadow: 0px 1px 6px #00000029;
+    background-color: #F7FBFC;
 }
 .details-table{
     box-shadow: 0px 1px 6px #00000029;
+    background-color: #F7FBFC;
 }
 .details-table i{
     margin-top: 5px;
@@ -111,7 +115,6 @@ table i{
     padding: 0;
     font-size: 0.7rem;
     color: #112949;
-    vertical-align: top;
 }
 .details-table h2,p{
     margin: 0;

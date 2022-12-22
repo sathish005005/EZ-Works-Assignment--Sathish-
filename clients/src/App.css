@@ -2,3 +2,41 @@
   display: grid;
   grid-template-columns:63px 1fr 3fr;
 }
+.profile{
+  display: flex;
+  position: fixed;
+  right:30px;
+}
+.profile p{
+  padding-top: 1rem;
+  font-size: 0.9rem;
+}
+.profile i{
+  padding-top: 0.5rem;
+  padding-left: 0.5rem;
+  font-size: 2rem;
+  right: 10px;
+  color:#ac4b0b;
+}
+@media screen and (max-width:680px) {
+  .app{
+   display: block;
+   padding-top: 70px;
+  }
+  .profile{
+    display: flex;
+    position: fixed;
+    right:30px;
+}
+.profile p{
+    padding-top: 1rem;
+    font-size: 0.9rem;
+}
+.profile i{
+    padding-top: 0.5rem;
+    padding-left: 0.5rem;
+    font-size: 2rem;
+    right: 10px;
+    color:#ac4b0b;
+}
+ }

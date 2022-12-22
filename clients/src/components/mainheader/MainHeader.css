@@ -2,22 +2,6 @@
     display:flex;
     flex-direction:column;
 }
-.profile{
-    display: flex;
-    position: fixed;
-    right:30px;
-}
-.profile p{
-    padding-top: 1rem;
-    font-size: 0.9rem;
-}
-.profile i{
-    padding-top: 0.5rem;
-    padding-left: 0.5rem;
-    font-size: 2rem;
-    right: 10px;
-    color:#ac4b0b;
-}
 .main-section{
     margin-top: 50px;
     padding: 0.3rem;
